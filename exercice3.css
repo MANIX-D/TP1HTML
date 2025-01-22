@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+#second{
+    font-weight: bold;
+}
+
+.first{
+    font-style: italic;
+}
+.Item-highlight{
+    color: blue;
+}
+
+li[class^="a"] {
+    background-color: yellow;
+  }
+
+  li[class$="date"] {
+    background-color:green;
+  } 
+  

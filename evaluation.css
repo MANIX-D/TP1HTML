@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+
+.hihlight{
+    color: blue;
+    font-weight: bold;
+}
+ ul li{
+    color: brown;
+ }
+
+ .special{
+    background-color: darkgray;
+    border: 2px solid;
+ }
+
+ #first{
+    font-style: italic;
+    color: yellow;
+ }
